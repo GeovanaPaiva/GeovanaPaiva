@@ -1,6 +1,6 @@
 ### Olá, me chamo Geovana Paiva👸🏻
   👩🏻‍💻estou fazendo meu tcc 
-  📚tecnologias que estou aprendendo:expo,github,angular,react native,vercel,php,bootstrap.
+  📚tecnologias que estou aapreendendo:expo,github,angular,react native,vercel,php,bootstrap.
 
 
 <div align="center">
